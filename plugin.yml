@@ -1,0 +1,7 @@
+name: TeleportToOtherWorld
+main: jp.teleport.teleporttootherworld.Teleport
+version: 1.0.0
+commands:
+   teleporttoworld:
+      description: This is a teleport to other world in a this location.
+      usage: /<command>
